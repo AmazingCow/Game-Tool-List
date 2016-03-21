@@ -1,4 +1,4 @@
-# Game Core List
+# Game Tool List
 
 This is a list of all our **[Game Tools](https://github.com/AmazingCow-Game-Tool)**.
 
