@@ -45,5 +45,3 @@ The other AmazingCow organization pages:
 * [AmazingCow-Game](https://github.com/AmazingCow-Game)
 * [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
 * [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
-* [AmazingCow-Imidiar](https://github.com/AmazingCow-Imidiar)
-
