@@ -24,6 +24,7 @@ Thank you and enjoy :D
 ## Info:
 
 #### Organization Page: [https://github.com/AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
+#### Trello Page: [https://trello.com/amazingcowgametool](https://trello.com/amazingcowgametool)
 
 #### List of Repos:
 
