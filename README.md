@@ -40,9 +40,10 @@ Thank you and enjoy :D
 
 The other AmazingCow organization pages:
 
+* [AmazingCow-Game](https://github.com/AmazingCow-Game)
 * [AmazingCow-Game-Core](https://github.com/AmazingCow-Game-Core)
 * [AmazingCow-Game-Framework](https://github.com/AmazingCow-Game-Framework)
 * [AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
-* [AmazingCow-Game](https://github.com/AmazingCow-Game)
 * [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
+* [AmazingCow-Services](https://github.com/AmazingCow-Services)
 * [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
